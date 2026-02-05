@@ -25,3 +25,5 @@ Dados semiestruturados: possuem organização flexível por meio de tags ou chav
 Dados não estruturados: não seguem um modelo definido, como textos livres, imagens, áudios e vídeos.
 Entender essa jornada é o primeiro passo para compreender como os dados se transformam em insights de negócio. Então, vamos pro a mão na massa!
 
+<img width="1536" height="1024" alt="MODELO" src="https://github.com/user-attachments/assets/f3b53e5c-2fd1-4ad2-890a-6991f93ba6b1" />
+
