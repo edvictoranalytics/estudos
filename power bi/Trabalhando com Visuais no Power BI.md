@@ -1,9 +1,5 @@
 # Formalizando conceitos do Power BI
 
-O que é um DASHBOARD?
-
-Os dashboards permitem que os consumidores de relatório criem um artefato de dados direcionados que é personalizado apenas para eles.
-
 <dataset> coleção de dados organizados usados para análises e modelagem de dados.
 
 Os conjuntos de dados estruturados frequentemente organizam os pontos de dados em tabelas, com linhas e colunas definidas.
